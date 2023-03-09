@@ -1,0 +1,26 @@
+#table {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: left;
+}
+th {
+    background-color: lightseagreen;
+    color: mintcream;
+    height: 50px;
+    padding-left: 20px;
+    
+    
+}
+td {
+    height: 30px;
+    padding-left: 20px;
+
+}
+
+th, td {
+    border-bottom: 1px solid #ddd;
+  }
+
+tr:hover {
+    background-color: wheat;
+}
